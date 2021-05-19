@@ -4,7 +4,7 @@
             "author": "SideSxope",
             "condition": "None",
             "name": "FreePalestine", 
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "3DADD9424BA28A06FB0D39BDC744806F",
             "resource": "FreePalestine_adaptive.png"
         },
@@ -13,7 +13,7 @@
             "climbresource": "Sombrero-FreakaMania_climb.png",
             "condition": "None",
             "name": "Sombrero",
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "A94BAEE5C807771734BC054CFB21807C",
             "reshashc": "0BCD55090DDB57866F5B8364E436FD63",
             "resource": "Sombrero-FreakaMania.png"
@@ -22,7 +22,7 @@
             "author": "Unknown",
             "condition": "None",
             "name": "Murder",
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "BBDB1CE8A666ED343CE65106A9309E56",
             "resource": "murder.png"
         },
@@ -30,7 +30,7 @@
             "author": "SideSxope",
             "condition": "None",
             "name": "HGamers",
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "DFC1AFBFF886654355223A884C6BBBAE",
             "resource": "HGamers.png"
         },
@@ -39,7 +39,7 @@
             "author": "Lanelore",
             "condition": "None",
             "name": "Knife",
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "FFE288696B575D6996C1E69C3AC15F6C",
             "resource": "knife_adaptive.png"
         },
@@ -48,7 +48,7 @@
             "climbresource": "lawyer_climb.png",
             "condition": "None",
             "name": "Lawyer",
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "E4EAABDC87EE4E98DA50FD1406B4472F",
             "reshashc": "73CA63DBAB242B7F5CA34AA3B8CEB556",
             "resource": "lawyer.png"
@@ -58,7 +58,7 @@
             "bounce": true,
             "condition": "None",
             "name": "Socksfor1",
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "7CDDB1D3978EE5AD012A373CF1248850",
             "resource": "Socksfor1.png"
         },
@@ -68,7 +68,7 @@
             "climbresource": "megaphone_climb.png",
             "condition": "None",
             "name": "Megaphone",
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "a1d29f24addac61053c3b219215838f4",
             "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
             "resource": "megaphone_bounce.png"
@@ -78,7 +78,7 @@
             "climbresource": "cat_climb.png",
             "condition": "None",
             "name": "Cat",
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "03b099aa33fe35604fa8957135636014",
             "reshashc": "5c470709b5eddc2903a76a3c37d189b2",
             "resource": "cat.png"
@@ -89,7 +89,7 @@
             "climbresource": "shiba_climb.png",
             "condition": "None",
             "name": "Shiba",
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "b0167a2e11c848696262a78e8c855a60",
             "reshashc": "fe8112518a2f570649e5b89a42a826d4",
             "resource": "shiba_bounce.png"
@@ -100,7 +100,7 @@
             "climbresource": "cook_climb.png",
             "condition": "None",
             "name": "Cook",
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "b2ea80426b1006925d7c3d2059aac60a",
             "reshashc": "a326ae78a39c427b3bfdbfd88aa7843a",
             "resource": "cook_bounce.png"
@@ -111,7 +111,7 @@
             "climbresource": "donut_climb.png",
             "condition": "None",
             "name": "Donut",
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "24dc330758c4efe9045a95cb9be32920",
             "reshashc": "03947286d0b2f8ed16e53cc94a2d8782",
             "resource": "donut_bounce.png"
@@ -122,7 +122,7 @@
             "climbresource": "LongBrown_climb.png",
             "condition": "None",
             "name": "Long Brown",
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "eaca8662fa4e37cb55e5103104c92c0c",
             "reshashb": "c4efdaa94da6aeae1c8bcbcdeedbae90",
             "reshashc": "05639888a53101c6e5582db1db91218a",
@@ -133,7 +133,7 @@
             "climbresource": "dj_climb.png",
             "condition": "None",
             "name": "DJ",
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "1f28d5f9c2785fd0a3d3426a1199bb43",
             "reshashc": "303836ea1ff4ab61ae92f70812f789ff",
             "resource": "dj.png"
@@ -144,7 +144,7 @@
             "climbresource": "bulb_climb.png",
             "condition": "None",
             "name": "Bulb",
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "5084d8187e216ac0e3d68e9f1f028b94",
             "reshashc": "153ca96e6793f9a2423de8eae23647a5",
             "resource": "bulb_adaptive.png"
@@ -156,7 +156,7 @@
             "climbresource": "duck_climb.png",
             "condition": "None",
             "name": "Duck",
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "733964a3836624915d30ffafbb4a53aa",
             "reshashb": "73034db86b5023108013ef39b2930d58",
             "reshashc": "d577ab114717f4b2877562f36f6ef8b7",
@@ -168,7 +168,7 @@
             "climbresource": "towel_climb.png",
             "condition": "None",
             "name": "Towel",
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "48e65b95a1aa33965c849df812373013",
             "reshashc": "42bb0053a0309f049f6d905febb3eb5d",
             "resource": "towel_adaptive.png"
@@ -178,7 +178,7 @@
             "author": "Kazutea",
             "condition": "None",
             "name": "Cat Ears",
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "cd4b972fe5e6e9eab26fe1f7e9cfe81f",
             "resource": "catEars_adaptive.png"
         },
@@ -186,7 +186,7 @@
             "author": "Ruolbu",
             "condition": "None",
             "name": "Leaf",
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "f6b30c549469397510cde55bdab356b5",
             "resource": "leaf.png"
         },
@@ -197,7 +197,7 @@
             "climbresource": "spartan_climb.png",
             "condition": "None",
             "name": "Spartan",
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "5377e4e01e64ce98a7be7e256e969606",
             "reshashc": "9fb4c6c3ae0c7eab6970572e9cb240ee",
             "resource": "spartan_bounce_adaptive.png"
@@ -207,7 +207,7 @@
             "author": "K3ndo",
             "condition": "None",
             "name": "Fishbowl",
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "261f667dddb82acbb922ae0930131f85",
             "resource": "fish_adaptive.png"
         },
@@ -217,7 +217,7 @@
             "climbresource": "teletubby_climb.png",
             "condition": "None",
             "name": "Teletubby",
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "112b5b1bdb231e2cfebed549e040174b",
             "reshashc": "8d749afe0d5aa27597de32913cd11111",
             "resource": "teletubby_adaptive.png"
@@ -228,7 +228,7 @@
             "climbresource": "brain_climb.png",
             "condition": "None",
             "name": "Brain",
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "1e6a19e66968110705f1fe5c9be2c3d3",
             "reshashc": "93275fadbf159ae3319cb42b1e458df2",
             "resource": "brain_adaptive.png"
@@ -240,7 +240,7 @@
             "climbresource": "mech_climb.png",
             "condition": "None",
             "name": "Mech",
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "a8de23012e0d9e6804821894fa54688c",
             "reshashb": "ae419915551abca4eae39bd219a4ef9f",
             "reshashc": "1ab3db6adb8e811df77addcd3d16b0ca",
@@ -251,7 +251,7 @@
             "author": "ZzzSleepy",
             "condition": "None",
             "name": "Newspaper", 
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "36A3D314DE583EE6479F85F69BD3A51A",
             "resource": "Newspaper_adaptive.png"
         },
@@ -259,7 +259,7 @@
             "author": "SideSxope",
             "condition": "None",
             "name": "SideSxope", 
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "85837D5DF926AB10BBC710B038612D02",
             "resource": "SideSxope.png"
         },
@@ -267,7 +267,7 @@
             "author": "Unknown",
             "condition": "None",
             "name": "Unknown", 
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "D0A7B1B7BE9C9AA83BC5047655A47B10",
             "resource": "Unknown.png"
         },
@@ -275,7 +275,7 @@
             "author": "Unknown",
             "condition": "None",
             "name": "Ludwig", 
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "392A5E65880CE75C2FBB165718915252",
             "resource": "Ludwig.png"
         },
@@ -283,7 +283,7 @@
             "author": "SideSxope",
             "condition": "None",
             "name": "Sykkuno", 
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "8EFCF2AA02A0CBF51B2F3D6760856178",
             "resource": "Sykkuno.png"
         },
@@ -291,7 +291,7 @@
             "author": "SideSxope",
             "condition": "None",
             "name": "Corpse", 
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "BCAF2B4DE6CB006011FA98A42384C8B0",
             "resource": "Corpse.png"
         },
@@ -299,7 +299,7 @@
             "author": "SideSxope",
             "condition": "None",
             "name": "Dream", 
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "B96BBDADEC32841C0551DEA93C6E40ED",
             "resource": "Dream.png"
         },
@@ -307,7 +307,7 @@
             "author": "SideSxope",
             "condition": "None",
             "name": "HelloKitty", 
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "B2A6AC25700625BDB0D4522FD3D0400F",
             "resource": "HelloKitty.png"
         },
@@ -315,7 +315,7 @@
             "author": "SideSxope",
             "condition": "None",
             "name": "GasMask", 
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "362322FCF54710CE93ACC4F1C97414EC",
             "resource": "GasMask.png"
         },
@@ -323,7 +323,7 @@
             "author": "SideSxope",
             "condition": "None",
             "name": "Toast", 
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "19F6E6770B26831F15BB466AEF638AB2",
             "resource": "Toast.png"
         },
@@ -331,7 +331,7 @@
             "author": "chaotic_dev",
             "condition": "None",
             "name": "Pokimane", 
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "0cbae7724dbc1157f1838a122868b326",
             "resource": "Pokimane.png"
         },
@@ -339,7 +339,7 @@
             "author": "@amongusconcept",
             "condition": "None",
             "name": "Megumins", 
-            "package": "VPHats",
+            "package": "Chapeaux VP",
             "reshasha": "e424d961d74163f08d2fd8d60957215c",
             "resource": "Megumins.png"
         }
