@@ -30,7 +30,7 @@
         {
             "author": "Lyzane",
             "condition": "None",
-            "name": "HGamers",
+            "name": "Bobobross",
             "package": "Chapeaux VP",
             "reshasha": "DFC1AFBFF886654355223A884C6BBBAE",
             "resource": "[VPHats]-[A]-Bobobross.png"
@@ -48,7 +48,7 @@
             "author": "Lyzane",
             "backresource":"[VPHats]-[A]-Communist-Flag_back.png",
             "condition": "None",
-            "name": "Drapeau Communiste",
+            "name": "Drapeau ☭",
             "package": "Chapeaux VP",
             "reshasha": "E4EAABDC87EE4E98DA50FD1406B4472F",
             "reshashb": "5c470709b5eddc2903a76a3c37d189b2",
@@ -120,7 +120,6 @@
             "resource": "[VPHats]-[A]-Loochea-Mask.png"
         },
         {
-            "adaptive": true,
             "author": "Amalgame",
             "condition": "None",
             "name": "Missing Texture",
@@ -176,6 +175,31 @@
             "package": "Chapeaux VP",
             "reshasha": "261f667dddb82acbb922ae0930131f85",
             "resource": "[VPHats]-[A]-sexe.png"
+        },
+        {
+
+            "author": "Julink",
+            "condition": "None",
+            "name": "Link", 
+            "package": "Chapeaux VP",
+            "reshasha": "19F6E6770B26831F15BB466AEF638AB2",
+            "resource": "[VPHats]-[A]-Link.png"
+        },
+        {
+            "author": "Julink",
+            "condition": "None",
+            "name": "Samus", 
+            "package": "Chapeaux VP",
+            "reshasha": "19F6E6770B26831F15BB466AEF638AB2",
+            "resource": "[VPHats]-[A]-Samus.png"
+        },
+        {
+            "author": "Julink",
+            "condition": "None",
+            "name": "Yoshi", 
+            "package": "Chapeaux VP",
+            "reshasha": "19F6E6770B26831F15BB466AEF638AB2",
+            "resource": "[VPHats]-[A]-Yoshi.png"
         },
         {
             "adaptive": true,
