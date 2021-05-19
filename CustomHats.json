@@ -6,7 +6,348 @@
             "name": "Animu", 
             "package": "Chapeaux VP",
             "reshasha": "3DADD9424BA28A06FB0D39BDC744806F",
-            "resource": "[VPHats]-[A]-Animu.png"
+            "resource": "[VPHats-[A]-Animu.png"
+        },
+        {
+            "author": "Lyzane",
+            "climbresource": "Sombrero-FreakaMania_climb.png",
+            "condition": "None",
+            "name": "Sombrero",
+            "package": "Chapeaux VP",
+            "reshasha": "A94BAEE5C807771734BC054CFB21807C",
+            "resource": "[VPHats]-[A]-Astérix-Studieux.png"
+        },
+        {
+            "author": "Lyzane",
+            "backresource": "[VPHats]-[A]-Barre-de-Descole_back.png",
+            "condition": "None",
+            "name": "Murder",
+            "package": "Chapeaux VP",
+            "reshasha": "BBDB1CE8A666ED343CE65106A9309E56",
+            "reshashb": "0BCD55090DDB57866F5B8364E436FD63",
+            "resource": "[VPHats]-[A]-Barre-de-Descole_back.png"
+        },
+        {
+            "author": "Lyzane",
+            "condition": "None",
+            "name": "HGamers",
+            "package": "Chapeaux VP",
+            "reshasha": "DFC1AFBFF886654355223A884C6BBBAE",
+            "resource": "[VPHats]-[A]-Bobobross.png"
+        },
+        {
+            "bounce": true,
+            "author": "Lyzane",
+            "condition": "None",
+            "name": "Casquette VP",
+            "package": "Chapeaux VP",
+            "reshasha": "FFE288696B575D6996C1E69C3AC15F6C",
+            "resource": "[VPHats]-[A]-Casquette-VP_bounce.png"
+        },
+        {
+            "author": "Lyzane",
+            "backresource":"[VPHats]-[A]-Communist-Flag_back.png",
+            "condition": "None",
+            "name": "Drapeau Communiste",
+            "package": "Chapeaux VP",
+            "reshasha": "E4EAABDC87EE4E98DA50FD1406B4472F",
+            "reshashb": "5c470709b5eddc2903a76a3c37d189b2",
+            "resource": "[VPHats]-[A]-Communist-Flag_back.png"
+        },
+        {
+            "author": "Amalgame",
+            "condition": "None",
+            "name": "David",
+            "package": "Chapeaux VP",
+            "reshasha": "7CDDB1D3978EE5AD012A373CF1248850",
+            "resource": "[VPHats]-[A]-David.png"
+        },
+        {
+            "author": "Amalgame",
+            "condition": "None",
+            "name": "Fleur",
+            "package": "Chapeaux VP",
+            "reshasha": "a1d29f24addac61053c3b219215838f4",
+            "resource": "[VPHats]-[A]-Fleur.png"
+        },
+        {
+            "author": "Amalgame",
+            "condition": "None",
+            "name": "Gundam",
+            "package": "Chapeaux VP",
+            "reshasha": "03b099aa33fe35604fa8957135636014",
+            "resource": "[VPHats]-[A]-Gundam.png"
+        },
+        {
+            "author": "Lyzane",
+            "condition": "None",
+            "name": "Hamster Ball",
+            "package": "Chapeaux VP",
+            "reshasha": "b0167a2e11c848696262a78e8c855a60",
+            "resource": "[VPHats]-[A]-Hamster-Ball.png"
+        },
+        {
+            "author": "Lyzane",
+            "condition": "None",
+            "name": "Lobby Box",
+            "package": "Chapeaux VP",
+            "reshasha": "b2ea80426b1006925d7c3d2059aac60a",
+            "resource": "[VPHats]-[A]-Lobby-Box.png"
+        },
+        {
+            "author": "Lyzane",
+            "condition": "None",
+            "name": "Lobby Box (Hideout)",
+            "package": "Chapeaux VP",
+            "reshasha": "24dc330758c4efe9045a95cb9be32920",
+            "resource": "[VPHats]-[A]-Lobby-Box-Hideout.png"
+        },
+        {
+            "author": "Lyzane",
+            "bounce":true,
+            "condition": "None",
+            "name": "Lobby Computer",
+            "package": "Chapeaux VP",
+            "reshasha": "eaca8662fa4e37cb55e5103104c92c0c",
+            "resource": "[VPHats]-[A]-Lobby-Computer_bounce.png"
+        },
+        {
+            "author": "Lyzane",
+            "condition": "None",
+            "name": "Masque Loochea",
+            "package": "Chapeaux VP",
+            "reshasha": "1f28d5f9c2785fd0a3d3426a1199bb43",
+            "resource": "[VPHats]-[A]-Loochea-Mask.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Amalgame",
+            "condition": "None",
+            "name": "Missing Texture",
+            "package": "Chapeaux VP",
+            "reshasha": "5084d8187e216ac0e3d68e9f1f028b94",
+            "resource": "[VPHats]-[A]-MissingTexture.png"
+        },
+        {
+            "author": "Lyzane",
+            "condition": "None",
+            "name": "Perruque JulinkVNR",
+            "package": "Chapeaux VP",
+            "reshasha": "733964a3836624915d30ffafbb4a53aa",
+            "resource": "[VPHats]-[A]-Perruque-Julinkvnr.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Amalgame",
+            "condition": "None",
+            "name": "Ramiel",
+            "package": "Chapeaux VP",
+            "reshasha": "48e65b95a1aa33965c849df812373013",
+            "resource": "[VPHats]-[A]-Ramiel.png"
+        },
+        {
+            "author": "Amalgame",
+            "condition": "None",
+            "name": "Scarlet",
+            "package": "Chapeaux VP",
+            "reshasha": "cd4b972fe5e6e9eab26fe1f7e9cfe81f",
+            "resource": "[VPHats]-[A]-Scarlet.png"
+        },
+        {
+            "author": "Amalgame",
+            "condition": "None",
+            "name": "Schro",
+            "package": "Chapeaux VP",
+            "reshasha": "f6b30c549469397510cde55bdab356b5",
+            "resource": "[VPHats]-[A]-Schro.png"
+        },
+        {
+            "author": "Amalgame",
+            "condition": "None",
+            "name": "Sephiroth",
+            "package": "Chapeaux VP",
+            "reshasha": "5377e4e01e64ce98a7be7e256e969606",
+            "resource": "[VPHats]-[A]-Sephiroth.png"
+        },
+        {
+            "author": "Amalgame",
+            "condition": "None",
+            "name": "sexe",
+            "package": "Chapeaux VP",
+            "reshasha": "261f667dddb82acbb922ae0930131f85",
+            "resource": "[VPHats]-[A]-sexe.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Amalgame",
+            "condition": "None",
+            "name": "Buff Boy",
+            "package": "Chapeaux VP",
+            "reshasha": "112b5b1bdb231e2cfebed549e040174b",
+            "resource": "[VPHats]-[B]-Buff-Boy_adaptative.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Amalgame",
+            "condition": "None",
+            "name": "Buff Plombier",
+            "package": "Chapeaux VP",
+            "reshasha": "1e6a19e66968110705f1fe5c9be2c3d3",
+            "resource": "[VPHats]-[B]-Buff-Plombier_adaptative.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Amalgame",
+            "condition": "None",
+            "name": "Cloud",
+            "package": "Chapeaux VP",
+            "reshasha": "a8de23012e0d9e6804821894fa54688c",
+            "resource": "[VPHats]-[B]-Cloud_adaptative.png"
+        },
+        {    
+            "adaptive": true,
+            "author": "Lyzane",
+            "condition": "None",
+            "name": "Conjoint", 
+            "package": "Chapeaux VP",
+            "reshasha": "36A3D314DE583EE6479F85F69BD3A51A",
+            "resource": "[VPHats]-[B]-conjoint_adaptative.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Amalgame",
+            "condition": "None",
+            "name": "ded", 
+            "package": "Chapeaux VP",
+            "reshasha": "85837D5DF926AB10BBC710B038612D02",
+            "resource": "[VPHats]-[B]-ded_adaptative.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Amalgame",
+            "condition": "None",
+            "name": "Horror", 
+            "package": "Chapeaux VP",
+            "reshasha": "D0A7B1B7BE9C9AA83BC5047655A47B10",
+            "resource": "[VPHats]-[B]-horror_adaptative.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Lyzane",
+            "condition": "None",
+            "name": "Knife", 
+            "package": "Chapeaux VP",
+            "reshasha": "392A5E65880CE75C2FBB165718915252",
+            "resource": "[VPHats]-[B]-Knife_adaptative.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Lyzane",
+            "condition": "None",
+            "name": "MAIS", 
+            "package": "Chapeaux VP",
+            "reshasha": "8EFCF2AA02A0CBF51B2F3D6760856178",
+            "resource": "[VPHats]-[B]-MAIS_adaptative.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Amalgame",
+            "condition": "None",
+            "name": "Masque1", 
+            "package": "Chapeaux VP",
+            "reshasha": "B96BBDADEC32841C0551DEA93C6E40ED",
+            "resource": "[VPHats]-[B]-masc1_adaptative.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Amalgame",
+            "condition": "None",
+            "name": "Masque2", 
+            "package": "Chapeaux VP",
+            "reshasha": "B96BBDADEC32841C0551DEA93C6E40ED",
+            "resource": "[VPHats]-[B]-masc2_adaptative.png"
+        },
+	    {
+            "adaptive": true,
+            "author": "Amalgame",
+            "condition": "None",
+            "name": "Masque3", 
+            "package": "Chapeaux VP",
+            "reshasha": "B96BBDADEC32841C0551DEA93C6E40ED",
+            "resource": "[VPHats]-[B]-masc3_adaptative.png"
+        },
+	    {
+            "adaptive": true,
+            "author": "Amalgame",
+            "condition": "None",
+            "name": "Masque4", 
+            "package": "Chapeaux VP",
+            "reshasha": "B2A6AC25700625BDB0D4522FD3D0400F",
+            "resource": "[VPHats]-[B]-masc4_adaptative.png"
+        },
+	    {
+            "adaptive": true,
+            "author": "Amalgame",
+            "condition": "None",
+            "name": "Masque5", 
+            "package": "Chapeaux VP",
+            "reshasha": "362322FCF54710CE93ACC4F1C97414EC",
+            "resource": "[VPHats]-[B]-masc5_adaptative.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Amalgame",
+            "condition": "None",
+            "name": "Masque6", 
+            "package": "Chapeaux VP",
+            "reshasha": "19F6E6770B26831F15BB466AEF638AB2",
+            "resource": "[VPHats]-[B]-masc6_adaptative.png"
+        },
+	{
+            "adaptive": true,
+            "author": "Amalgame",
+            "condition": "None",
+            "name": "Masque7", 
+            "package": "Chapeaux VP",
+            "reshasha": "0cbae7724dbc1157f1838a122868b326",
+            "resource": "[VPHats]-[B]-masc7_adaptative.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Amalgame",
+            "condition": "None",
+            "name": "Masque8", 
+            "package": "Chapeaux VP",
+            "reshasha": "e424d961d74163f08d2fd8d60957215c",
+            "resource": "[VPHats]-[B]-masc8_adaptative.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Amalgame",
+            "condition": "None",
+            "name": "OgaBooga", 
+            "package": "Chapeaux VP",
+            "reshasha": "19F6E6770B26831F15BB466AEF638AB2",
+            "resource": "[VPHats]-[B]-ogabooga_adaptative.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Amalgame",
+            "condition": "None",
+            "name": "Reverse", 
+            "package": "Chapeaux VP",
+            "reshasha": "19F6E6770B26831F15BB466AEF638AB2",
+            "resource": "[VPHats]-[B]-Reverse_adaptative.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Lyzane",
+            "condition": "None",
+            "name": "SUS", 
+            "package": "Chapeaux VP",
+            "reshasha": "19F6E6770B26831F15BB466AEF638AB2",
+            "resource": "[VPHats]-[B]-SUS_adaptative.png"
         }
+
     ]
 }
